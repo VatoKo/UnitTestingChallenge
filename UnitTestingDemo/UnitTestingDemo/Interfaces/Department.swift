@@ -1,0 +1,12 @@
+//
+//  Department.swift
+//  UnitTestingDemo
+//
+//  Created by Vato Kostava on 03.05.24.
+//
+
+import Foundation
+
+protocol Department {
+    
+}
